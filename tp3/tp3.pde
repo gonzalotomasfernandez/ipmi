@@ -1,5 +1,6 @@
 //Gonzalo Fernandez, comision 1
 //Legajo: 122693/0
+//https://youtu.be/-16G1YpbRck?si=arguv4QB63hJhCm4
 
 PImage obra;
 float franjas=8;
